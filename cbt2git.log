@@ -1,0 +1,11 @@
+2023-04-03 01:49:51.451255 - Initialized conversion of CBT668
+2023-04-03 01:49:51.574605 - Received CBT.V504.FILE668.PDS from FILE668.XMI 
+2023-04-03 01:49:51.577572 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:49:51.578619 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/$$NOTE01
+2023-04-03 01:49:51.579711 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/$$NOTE02
+2023-04-03 01:49:51.580780 - Found $$NOTE03.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/$$NOTE03
+2023-04-03 01:49:51.581801 - Found @FILE668.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/@FILE668
+2023-04-03 01:49:51.582874 - Found @INSTALL.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/@INSTALL
+2023-04-03 01:49:51.583910 - Found @USERGDE.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/@USERGDE
+2023-04-03 01:49:51.585077 - Found COMPILE.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/COMPILE
+2023-04-03 01:49:51.586398 - Found OFFLOAD.txt (text/plain) in CBT.V504.FILE668.PDS, moved to PDS/OFFLOAD
